@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I’m currently working on AI and Software development<br>🤝 I’m looking to collaborate on opensource AI projects<br>🤓 I know reverse-engineering and loves asm<br>📜 I’m currently learning Web dev and NLP
+💡 I’m currently working on AI and Software development<br>🤝 I’m looking to collaborate on opensource AI projects<br>🤓 I know reverse-engineering and love asm<br>📜 I’m currently learning Web dev and NLP
 
 
 ## 🌐 Socials:
